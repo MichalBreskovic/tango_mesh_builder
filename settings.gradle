@@ -1,0 +1,2 @@
+rootProject.name = "tango_rgbd_server"
+include ':app'
